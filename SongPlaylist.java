@@ -1,6 +1,7 @@
 /**
  *
- * @author Esther
+ * @author Astrid Cortez
+ * @11/7/2020
  */
 package songtree;
 
